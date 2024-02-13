@@ -1,0 +1,13 @@
+
+*.xml
+*.iml
+*.out
+*.o
+*.gch
+idea/
+cmake-build-debug/
+.DS_Store
+CMakeLists.txt
+test/out.txt
+.clang-format
+my_tar
