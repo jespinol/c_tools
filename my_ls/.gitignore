@@ -1,0 +1,11 @@
+
+*.xml
+*.iml
+*.txt
+*.out
+idea/
+cmake-build-debug/
+.DS_Store
+my_ls.h.gch
+my_ls.o
+my_ls

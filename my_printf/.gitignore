@@ -1,0 +1,22 @@
+
+*.xml
+*.iml
+*.txt
+*.ninja
+*.log
+*.check_cache
+*.o
+*.cmake
+*.bin
+cmake-build-debug/my_printf
+cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/.ninja_log
+cmake-build-debug/.ninja_deps
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

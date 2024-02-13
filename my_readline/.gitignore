@@ -1,0 +1,15 @@
+
+.DS_Store
+*.xml
+*.iml
+CMakeLists.txt
+*.cmake
+*.ts
+*.log
+*.bin
+*.make
+*.d
+*.marks
+*.o
+cmake-build-debug/
+a.out
